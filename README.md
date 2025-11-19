@@ -69,14 +69,15 @@ dokoMemo2/
 
 ## 📷 スクリーンショット
 
-![dokoMemo2 メイン画面](./screenshot.png)
+![dokoMemo2 開発画面]
+<img width="2434" height="1379" alt="image" src="https://github.com/user-attachments/assets/f118a16c-c777-43d6-ae3a-67f227e2aef9" />
 
 ---
 
 ## 👤 開発者
 
 - 渡辺 浩一（Koichi Watanabe）
-- 趣味：バイク、Java学習、メモアプリ開発
+
 
 ---
 
@@ -90,4 +91,4 @@ MIT License（自由に使ってください）
 
 このアプリはローカル環境（localhost）用に作られています。  
 スマートフォンや他のPCからアクセスするには、PCを起動した状態で、  
-IPアドレスとポート（例：`http://192.168.xx.xx:8080/dokoMemo2/Main`）でアクセスする必要があります。
+IPアドレスとポートでアクセスする必要があります。
