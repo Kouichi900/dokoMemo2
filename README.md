@@ -79,7 +79,6 @@ dokoMemo2/
 ## 👤 開発者
 
 - 渡辺 浩一（Koichi Watanabe）
-- 趣味：バイク、Java学習、メモアプリ開発
 
 ---
 
