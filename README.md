@@ -69,9 +69,11 @@ dokoMemo2/
 ## 📷 スクリーンショット
 
 ![dokoMemo2 コード]
-![alt text](image.png)
+<img width="2434" height="1379" alt="image" src="https://github.com/user-attachments/assets/62b03484-bc27-4595-b996-66999775bfb0" />
+
 ![dokoMemo2 メモ画面]
-![alt text](image-1.png))
+<img width="2473" height="1353" alt="image-1" src="https://github.com/user-attachments/assets/90d4feb5-6354-4c4d-a23e-39fbc84fba1c" />
+
 ---
 
 ## 👤 開発者
