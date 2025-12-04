@@ -1,4 +1,3 @@
-[README.md](https://github.com/user-attachments/files/23615723/README.md)
 # どこメモ2 (dokoMemo2)
 
 JSP と Servlet を使った、簡易メモ帳アプリです。  
@@ -69,8 +68,8 @@ dokoMemo2/
 
 ## 📷 スクリーンショット
 
-![dokoMemo2 開発画面]
-<img width="2434" height="1379" alt="image" src="https://github.com/user-attachments/assets/f118a16c-c777-43d6-ae3a-67f227e2aef9" />
+![dokoMemo2 コード]
+![alt text](image.png)
 ![dokoMemo2 メモ画面]
 ![alt text](image-1.png))
 ---
@@ -78,7 +77,7 @@ dokoMemo2/
 ## 👤 開発者
 
 - 渡辺 浩一（Koichi Watanabe）
-
+- 趣味：バイク、Java学習、メモアプリ開発
 
 ---
 
@@ -92,4 +91,5 @@ MIT License（自由に使ってください）
 
 このアプリはローカル環境（localhost）用に作られています。  
 スマートフォンや他のPCからアクセスするには、PCを起動した状態で、  
-IPアドレスとポートでアクセスする必要があります。
+IPアドレスとポート（例：`http://localhost:8080/dokoMemo2/index.jsp`）でアクセスする必要があります。
+
